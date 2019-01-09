@@ -1,0 +1,13 @@
+{
+  "main.css": "/language_detector/static/css/main.66fe0013.chunk.css",
+  "main.js": "/language_detector/static/js/main.e86f51d9.chunk.js",
+  "main.js.map": "/language_detector/static/js/main.e86f51d9.chunk.js.map",
+  "static/js/1.73997a02.chunk.js": "/language_detector/static/js/1.73997a02.chunk.js",
+  "static/js/1.73997a02.chunk.js.map": "/language_detector/static/js/1.73997a02.chunk.js.map",
+  "runtime~main.js": "/language_detector/static/js/runtime~main.99cf6f26.js",
+  "runtime~main.js.map": "/language_detector/static/js/runtime~main.99cf6f26.js.map",
+  "static/css/main.66fe0013.chunk.css.map": "/language_detector/static/css/main.66fe0013.chunk.css.map",
+  "index.html": "/language_detector/index.html",
+  "precache-manifest.e980b6f46394efdf4f51204e22e5a141.js": "/language_detector/precache-manifest.e980b6f46394efdf4f51204e22e5a141.js",
+  "service-worker.js": "/language_detector/service-worker.js"
+}
