@@ -1,13 +1,13 @@
 {
   "main.css": "/language-detector/static/css/main.66fe0013.chunk.css",
-  "main.js": "/language-detector/static/js/main.67c1a513.chunk.js",
-  "main.js.map": "/language-detector/static/js/main.67c1a513.chunk.js.map",
+  "main.js": "/language-detector/static/js/main.b03390f3.chunk.js",
+  "main.js.map": "/language-detector/static/js/main.b03390f3.chunk.js.map",
   "static/js/1.63710516.chunk.js": "/language-detector/static/js/1.63710516.chunk.js",
   "static/js/1.63710516.chunk.js.map": "/language-detector/static/js/1.63710516.chunk.js.map",
   "runtime~main.js": "/language-detector/static/js/runtime~main.8cde4540.js",
   "runtime~main.js.map": "/language-detector/static/js/runtime~main.8cde4540.js.map",
   "static/css/main.66fe0013.chunk.css.map": "/language-detector/static/css/main.66fe0013.chunk.css.map",
   "index.html": "/language-detector/index.html",
-  "precache-manifest.2c332fb2529cf9279bf33cd6f887292d.js": "/language-detector/precache-manifest.2c332fb2529cf9279bf33cd6f887292d.js",
+  "precache-manifest.f417c8af47fc52086b1fc692e8f64c78.js": "/language-detector/precache-manifest.f417c8af47fc52086b1fc692e8f64c78.js",
   "service-worker.js": "/language-detector/service-worker.js"
 }
