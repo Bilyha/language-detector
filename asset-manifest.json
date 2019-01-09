@@ -1,13 +1,13 @@
 {
-  "main.css": "/language_detector/static/css/main.66fe0013.chunk.css",
-  "main.js": "/language_detector/static/js/main.e86f51d9.chunk.js",
-  "main.js.map": "/language_detector/static/js/main.e86f51d9.chunk.js.map",
-  "static/js/1.73997a02.chunk.js": "/language_detector/static/js/1.73997a02.chunk.js",
-  "static/js/1.73997a02.chunk.js.map": "/language_detector/static/js/1.73997a02.chunk.js.map",
-  "runtime~main.js": "/language_detector/static/js/runtime~main.99cf6f26.js",
-  "runtime~main.js.map": "/language_detector/static/js/runtime~main.99cf6f26.js.map",
-  "static/css/main.66fe0013.chunk.css.map": "/language_detector/static/css/main.66fe0013.chunk.css.map",
-  "index.html": "/language_detector/index.html",
-  "precache-manifest.e980b6f46394efdf4f51204e22e5a141.js": "/language_detector/precache-manifest.e980b6f46394efdf4f51204e22e5a141.js",
-  "service-worker.js": "/language_detector/service-worker.js"
+  "main.css": "/language-detector/static/css/main.66fe0013.chunk.css",
+  "main.js": "/language-detector/static/js/main.67c1a513.chunk.js",
+  "main.js.map": "/language-detector/static/js/main.67c1a513.chunk.js.map",
+  "static/js/1.63710516.chunk.js": "/language-detector/static/js/1.63710516.chunk.js",
+  "static/js/1.63710516.chunk.js.map": "/language-detector/static/js/1.63710516.chunk.js.map",
+  "runtime~main.js": "/language-detector/static/js/runtime~main.8cde4540.js",
+  "runtime~main.js.map": "/language-detector/static/js/runtime~main.8cde4540.js.map",
+  "static/css/main.66fe0013.chunk.css.map": "/language-detector/static/css/main.66fe0013.chunk.css.map",
+  "index.html": "/language-detector/index.html",
+  "precache-manifest.2c332fb2529cf9279bf33cd6f887292d.js": "/language-detector/precache-manifest.2c332fb2529cf9279bf33cd6f887292d.js",
+  "service-worker.js": "/language-detector/service-worker.js"
 }
